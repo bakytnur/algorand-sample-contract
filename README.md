@@ -157,7 +157,7 @@
     2022/05/01 19:02:58 CDT session 7617e53dc50202480e956a9ce5df84f4881f32bff09ff0299715be104db9ed84 closed
     ```
 
-    9392 is the CDT_PORT we have specified in `docker-compose.yml`.
+    `9392` is the `CDT_PORT` we have specified in sandbox `docker-compose.yml`.
 
 18. Open Chrome session with `chrome://inspect/#devices` address and add `localhost:9392` on Discover network targets -> Configure -> Target discovery settings. Wait for the debugger session to appear under Remote target.
 
