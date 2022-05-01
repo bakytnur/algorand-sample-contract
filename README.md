@@ -163,7 +163,7 @@
 
 19. Click `inspect` link to open the Chrome debugger with the teal file. Put a breakpoint where the exception occurred and find out the error. The exception occurs as Teal doesn't support a negative number.
 
-    ![Chrome Debugger](https://github.com/bakytnur/algorand-sample-contract/blob/main/chrome_debugger?raw=true)
+    ![Chrome Debugger](https://github.com/bakytnur/algorand-sample-contract/blob/main/chrome_debugger.png?raw=true)
 # Links
 
 - [Official Algorand Smart Contract Guidelines](https://developer.algorand.org/docs/get-details/dapps/avm/teal/guidelines/)
